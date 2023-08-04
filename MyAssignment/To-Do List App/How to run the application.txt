@@ -1,3 +1,5 @@
+prerequisites: Make sure you have installed streamlit, pandas libraries in Anaconda Navigator 
+
 Step 1: Open Anaconda Navigator application
 Step 2: Go to 'Environments' tab, click on base(root) play button image and select 'open terminal' option
 Step 3: Navigate to the 'ToDoapp' project folder destination where you have app.py & other files in your local machine
