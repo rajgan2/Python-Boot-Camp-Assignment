@@ -1,8 +1,0 @@
-prerequisites: Make sure you have installed streamlit, pandas libraries in Anaconda Navigator 
-
-Step 1: Open Anaconda Navigator application
-Step 2: Go to 'Environments' tab, click on base(root) play button image and select 'open terminal' option
-Step 3: Navigate to the 'ToDoapp' project folder destination where you have app.py & other files in your local machine
-Step 4: Run the command "streamlit run app.py" in terminal
-        Result: As soon as you run the above command in terminal the 'ToDoapp' will open in browser page automatiaclly & ready to use.
-Step 5: Do not close the terminal window when 'ToDoapp' is in use
